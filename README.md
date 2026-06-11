@@ -1,3 +1,27 @@
+## Project Overview
+
+This project analyzes retail sales performance across regions, products, and customers using Python, SQL, and Power BI.
+
+The goal is to help business stakeholders monitor revenue, profitability, customer behavior, and product performance through interactive dashboards and KPI reporting.
+
+The solution includes:
+- Data cleaning and validation
+- Star schema data modeling
+- SQL business analysis
+- Power BI dashboards
+- Interactive Streamlit dashboard
+- Executive business insights
+## Business Problem
+
+Retail organizations generate large volumes of transactional data but often lack a centralized view of business performance.
+
+This project answers critical business questions:
+
+- Which regions generate the highest revenue?
+- Which products contribute most to profit?
+- Who are the highest-value customers?
+- How do sales trends change over time?
+- Where are margin improvement opportunities?
 # Sales Performance Analytics
 
 Sales Performance Dashboard using Power BI, SQL, and Python
