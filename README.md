@@ -55,7 +55,17 @@ Power BI file: `powerbi/SalesPerformance.pbip`
 - Demand peaks in **Q4** with a secondary lift in **June**.
 
 Full analysis: [Executive_Summary.md](Executive_Summary.md)
+## Project Impact
 
+This project demonstrates the complete analytics lifecycle from raw data to business insights.
+
+Key outcomes include:
+
+- Built an analytics solution using Python, SQL, and Power BI.
+- Designed a star schema data model to support scalable reporting and analysis.
+- Developed KPI dashboards for revenue, profit, customer, and product performance monitoring.
+- Automated data cleaning, transformation, and reporting workflows.
+- Generated actionable business insights to support data-driven decision making.
 ## Tech stack
 
 | Layer | Tools |
