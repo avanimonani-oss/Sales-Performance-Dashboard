@@ -1,6 +1,6 @@
 # Sales Performance Analytics
 
-End-to-end retail sales analytics: data engineering, SQL analysis, and an executive Power BI dashboard across revenue, product, and customer performance.
+Sales Performance Dashboard using Power BI, SQL, and Python
 
 **Period:** 2021–2024 · **Volume:** 50,000 orders · **Revenue:** $121.8M · **Profit margin:** 17.4%
 
