@@ -1,0 +1,28 @@
+table Dim_Product
+	lineageTag: 6af1690f-8178-47cc-b368-176c03900a78
+
+	column Product_Name
+		dataType: string
+		sourceColumn: Product_Name
+		summarizeBy: none
+	column Category
+		dataType: string
+		sourceColumn: Category
+		summarizeBy: none
+	column Sub_Category
+		dataType: string
+		sourceColumn: Sub_Category
+		summarizeBy: none
+
+	partition Dim_Product = m
+		mode: import
+		source =
+let
+    Source = Csv.Document(
+        File.Contents("C:\Users\Radianch_Tech\Desktop\DA_project\Sales-Performance-Dashboard\data\model\Dim_Product.csv"),
+        [Delimiter = ",", Columns = 3, Encoding = 65001, QuoteStyle = QuoteStyle.Csv]
+    ),
+    PromotedHeaders = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+    ChangedTypes = Table.TransformColumnTypes(PromotedHeaders, {{"Product_Name", type text}, {"Category", type text}, {"Sub_Category", type text}})
+in
+    ChangedTypes

@@ -1,0 +1,92 @@
+table Fact_Sales
+	lineageTag: ae8ea662-3fe9-443f-a945-7f3b035f6c6b
+
+	column Order_ID
+		dataType: string
+		sourceColumn: Order_ID
+		summarizeBy: none
+	column Order_Date
+		dataType: dateTime
+		sourceColumn: Order_Date
+		summarizeBy: none
+	column Customer_ID
+		dataType: string
+		sourceColumn: Customer_ID
+		summarizeBy: none
+	column Product_Name
+		dataType: string
+		sourceColumn: Product_Name
+		summarizeBy: none
+	column GeographyKey
+		dataType: string
+		sourceColumn: GeographyKey
+		summarizeBy: none
+	column Sales
+		dataType: double
+		sourceColumn: Sales
+		summarizeBy: none
+	column Quantity
+		dataType: int64
+		sourceColumn: Quantity
+		summarizeBy: none
+	column Discount
+		dataType: double
+		sourceColumn: Discount
+		summarizeBy: none
+	column Profit
+		dataType: double
+		sourceColumn: Profit
+		summarizeBy: none
+
+	measure 'Total Revenue' = SUM ( Fact_Sales[Sales] )
+		formatString: $#,0.00
+		displayFolder: "_ KPIs"
+	measure 'Total Profit' = SUM ( Fact_Sales[Profit] )
+		formatString: $#,0.00
+		displayFolder: "_ KPIs"
+	measure 'Total Orders' = DISTINCTCOUNT ( Fact_Sales[Order_ID] )
+		formatString: #,0
+		displayFolder: "_ KPIs"
+	measure 'Average Order Value' = DIVIDE ( [Total Revenue], [Total Orders] )
+		formatString: $#,0.00
+		displayFolder: "_ KPIs"
+	measure 'Profit Margin %' = DIVIDE ( [Total Profit], [Total Revenue] )
+		formatString: 0.00%
+		displayFolder: "_ KPIs"
+	measure 'Total Quantity' = SUM ( Fact_Sales[Quantity] )
+		formatString: #,0
+		displayFolder: "_ KPIs"
+	measure 'Revenue YTD' = TOTALYTD ( [Total Revenue], Dim_Date[Date] )
+		formatString: $#,0.00
+		displayFolder: "_ Time Intelligence"
+	measure 'Revenue PY' = CALCULATE ( [Total Revenue], SAMEPERIODLASTYEAR ( Dim_Date[Date] ) )
+		formatString: $#,0.00
+		displayFolder: "_ Time Intelligence"
+	measure 'Revenue YoY Growth %' = DIVIDE ( [Total Revenue] - [Revenue PY], [Revenue PY] )
+		formatString: 0.00%
+		displayFolder: "_ Time Intelligence"
+	measure 'Customer Count' = DISTINCTCOUNT ( Fact_Sales[Customer_ID] )
+		formatString: #,0
+		displayFolder: "_ Customer"
+	measure 'Product Count' = DISTINCTCOUNT ( Fact_Sales[Product_Name] )
+		formatString: #,0
+		displayFolder: "_ Product"
+	measure 'Customer Contribution %' = DIVIDE ( [Total Revenue], CALCULATE ( [Total Revenue], ALL ( Dim_Customer ) ) )
+		formatString: 0.00%
+		displayFolder: "_ Customer"
+	measure 'Customers in Band' = DISTINCTCOUNT ( Dim_Customer[Customer_ID] )
+		formatString: #,0
+		displayFolder: "_ Customer"
+
+	partition Fact_Sales = m
+		mode: import
+		source =
+let
+    Source = Csv.Document(
+        File.Contents("C:\Users\Radianch_Tech\Desktop\DA_project\Sales-Performance-Dashboard\data\model\Fact_Sales.csv"),
+        [Delimiter = ",", Columns = 9, Encoding = 65001, QuoteStyle = QuoteStyle.Csv]
+    ),
+    PromotedHeaders = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+    ChangedTypes = Table.TransformColumnTypes(PromotedHeaders, {{"Order_ID", type text}, {"Order_Date", type date}, {"Customer_ID", type text}, {"Product_Name", type text}, {"GeographyKey", type text}, {"Sales", type number}, {"Quantity", Int64.Type}, {"Discount", type number}, {"Profit", type number}})
+in
+    ChangedTypes

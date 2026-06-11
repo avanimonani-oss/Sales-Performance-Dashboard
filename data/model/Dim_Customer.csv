@@ -1,0 +1,31 @@
+Customer_ID,Customer_Name,Segment,Customer_Total_Revenue,Revenue_Band,Revenue_Band_Sort
+CUST-001,Claire Gute,Consumer,3941294.72,$2M – $5M,4
+CUST-002,Reginald Hill,Corporate,4263237.04,$2M – $5M,4
+CUST-003,Edward Bowker,Consumer,3944738.01,$2M – $5M,4
+CUST-004,Andrew Allen,Home Office,4004640.2,$2M – $5M,4
+CUST-005,Carla Cox,Home Office,3943244.36,$2M – $5M,4
+CUST-006,Linda Ross,Home Office,4050209.54,$2M – $5M,4
+CUST-007,James Brown,Corporate,4136355.21,$2M – $5M,4
+CUST-008,Melissa Martin,Home Office,4083347.91,$2M – $5M,4
+CUST-009,Susan Howard,Corporate,4205928.78,$2M – $5M,4
+CUST-010,Michael Brown,Consumer,4213173.8,$2M – $5M,4
+CUST-011,Lily Peterson,Corporate,4011699.94,$2M – $5M,4
+CUST-012,Yvonne King,Consumer,3946908.54,$2M – $5M,4
+CUST-013,Patricia Taylor,Consumer,3917990.12,$2M – $5M,4
+CUST-014,Jackie King,Home Office,4178157.26,$2M – $5M,4
+CUST-015,Matthew Moore,Consumer,4122249.24,$2M – $5M,4
+CUST-016,Tina Vaughn,Corporate,4158596.09,$2M – $5M,4
+CUST-017,Brian White,Home Office,4118448.96,$2M – $5M,4
+CUST-018,Beth Clark,Home Office,4117701.34,$2M – $5M,4
+CUST-019,Daniel Edge,Home Office,4105427.16,$2M – $5M,4
+CUST-020,Emily Davis,Corporate,3839405.07,$2M – $5M,4
+CUST-021,Oliver Chen,Consumer,3887829.58,$2M – $5M,4
+CUST-022,Grace Lee,Home Office,4076937.08,$2M – $5M,4
+CUST-023,Natalie Kim,Home Office,4172766.11,$2M – $5M,4
+CUST-024,Henry Scott,Corporate,4078681.21,$2M – $5M,4
+CUST-025,Ava Brooks,Corporate,4189808.02,$2M – $5M,4
+CUST-026,Sophia Martin,Corporate,4017180.6,$2M – $5M,4
+CUST-027,Noah Johnson,Home Office,3914482.74,$2M – $5M,4
+CUST-028,Mia Clark,Home Office,3940478.51,$2M – $5M,4
+CUST-029,Ethan Davis,Corporate,4015302.57,$2M – $5M,4
+CUST-030,Amelia Rogers,Consumer,4153974.13,$2M – $5M,4

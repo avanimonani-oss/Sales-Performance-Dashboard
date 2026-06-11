@@ -1,0 +1,40 @@
+table Dim_Customer
+	lineageTag: 90cceb14-cca4-4025-a352-0057ccb292ae
+
+	column Customer_ID
+		dataType: string
+		sourceColumn: Customer_ID
+		summarizeBy: none
+	column Customer_Name
+		dataType: string
+		sourceColumn: Customer_Name
+		summarizeBy: none
+	column Segment
+		dataType: string
+		sourceColumn: Segment
+		summarizeBy: none
+	column Customer_Total_Revenue
+		dataType: double
+		sourceColumn: Customer_Total_Revenue
+		summarizeBy: none
+	column Revenue_Band
+		dataType: string
+		sourceColumn: Revenue_Band
+		summarizeBy: none
+	column Revenue_Band_Sort
+		dataType: int64
+		sourceColumn: Revenue_Band_Sort
+		summarizeBy: none
+
+	partition Dim_Customer = m
+		mode: import
+		source =
+let
+    Source = Csv.Document(
+        File.Contents("C:\Users\Radianch_Tech\Desktop\DA_project\Sales-Performance-Dashboard\data\model\Dim_Customer.csv"),
+        [Delimiter = ",", Columns = 6, Encoding = 65001, QuoteStyle = QuoteStyle.Csv]
+    ),
+    PromotedHeaders = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+    ChangedTypes = Table.TransformColumnTypes(PromotedHeaders, {{"Customer_ID", type text}, {"Customer_Name", type text}, {"Segment", type text}, {"Customer_Total_Revenue", type number}, {"Revenue_Band", type text}, {"Revenue_Band_Sort", Int64.Type}})
+in
+    ChangedTypes

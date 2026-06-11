@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "artifacts": [
+    {
+      "report": {
+        "path": "SalesPerformance/SalesPerformance.Report"
+      }
+    },
+    {
+      "dataset": {
+        "path": "SalesPerformance/SalesPerformance.SemanticModel"
+      }
+    }
+  ],
+  "settings": {
+    "enableAutoRecovery": true
+  }
+}

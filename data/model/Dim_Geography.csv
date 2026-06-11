@@ -1,0 +1,401 @@
+GeographyKey,Region,State,City
+Central|Illinois|Atlanta,Central,Illinois,Atlanta
+Central|Illinois|Boston,Central,Illinois,Boston
+Central|Illinois|Chicago,Central,Illinois,Chicago
+Central|Illinois|Cleveland,Central,Illinois,Cleveland
+Central|Illinois|Columbus,Central,Illinois,Columbus
+Central|Illinois|Dallas,Central,Illinois,Dallas
+Central|Illinois|Denver,Central,Illinois,Denver
+Central|Illinois|Houston,Central,Illinois,Houston
+Central|Illinois|Indianapolis,Central,Illinois,Indianapolis
+Central|Illinois|Las Vegas,Central,Illinois,Las Vegas
+Central|Illinois|Los Angeles,Central,Illinois,Los Angeles
+Central|Illinois|Madison,Central,Illinois,Madison
+Central|Illinois|Miami,Central,Illinois,Miami
+Central|Illinois|Minneapolis,Central,Illinois,Minneapolis
+Central|Illinois|New York,Central,Illinois,New York
+Central|Illinois|Orlando,Central,Illinois,Orlando
+Central|Illinois|Philadelphia,Central,Illinois,Philadelphia
+Central|Illinois|Portland,Central,Illinois,Portland
+Central|Illinois|San Francisco,Central,Illinois,San Francisco
+Central|Illinois|Seattle,Central,Illinois,Seattle
+Central|Michigan|Atlanta,Central,Michigan,Atlanta
+Central|Michigan|Boston,Central,Michigan,Boston
+Central|Michigan|Chicago,Central,Michigan,Chicago
+Central|Michigan|Cleveland,Central,Michigan,Cleveland
+Central|Michigan|Columbus,Central,Michigan,Columbus
+Central|Michigan|Dallas,Central,Michigan,Dallas
+Central|Michigan|Denver,Central,Michigan,Denver
+Central|Michigan|Houston,Central,Michigan,Houston
+Central|Michigan|Indianapolis,Central,Michigan,Indianapolis
+Central|Michigan|Las Vegas,Central,Michigan,Las Vegas
+Central|Michigan|Los Angeles,Central,Michigan,Los Angeles
+Central|Michigan|Madison,Central,Michigan,Madison
+Central|Michigan|Miami,Central,Michigan,Miami
+Central|Michigan|Minneapolis,Central,Michigan,Minneapolis
+Central|Michigan|New York,Central,Michigan,New York
+Central|Michigan|Orlando,Central,Michigan,Orlando
+Central|Michigan|Philadelphia,Central,Michigan,Philadelphia
+Central|Michigan|Portland,Central,Michigan,Portland
+Central|Michigan|San Francisco,Central,Michigan,San Francisco
+Central|Michigan|Seattle,Central,Michigan,Seattle
+Central|Ohio|Atlanta,Central,Ohio,Atlanta
+Central|Ohio|Boston,Central,Ohio,Boston
+Central|Ohio|Chicago,Central,Ohio,Chicago
+Central|Ohio|Cleveland,Central,Ohio,Cleveland
+Central|Ohio|Columbus,Central,Ohio,Columbus
+Central|Ohio|Dallas,Central,Ohio,Dallas
+Central|Ohio|Denver,Central,Ohio,Denver
+Central|Ohio|Houston,Central,Ohio,Houston
+Central|Ohio|Indianapolis,Central,Ohio,Indianapolis
+Central|Ohio|Las Vegas,Central,Ohio,Las Vegas
+Central|Ohio|Los Angeles,Central,Ohio,Los Angeles
+Central|Ohio|Madison,Central,Ohio,Madison
+Central|Ohio|Miami,Central,Ohio,Miami
+Central|Ohio|Minneapolis,Central,Ohio,Minneapolis
+Central|Ohio|New York,Central,Ohio,New York
+Central|Ohio|Orlando,Central,Ohio,Orlando
+Central|Ohio|Philadelphia,Central,Ohio,Philadelphia
+Central|Ohio|Portland,Central,Ohio,Portland
+Central|Ohio|San Francisco,Central,Ohio,San Francisco
+Central|Ohio|Seattle,Central,Ohio,Seattle
+Central|Texas|Atlanta,Central,Texas,Atlanta
+Central|Texas|Boston,Central,Texas,Boston
+Central|Texas|Chicago,Central,Texas,Chicago
+Central|Texas|Cleveland,Central,Texas,Cleveland
+Central|Texas|Columbus,Central,Texas,Columbus
+Central|Texas|Dallas,Central,Texas,Dallas
+Central|Texas|Denver,Central,Texas,Denver
+Central|Texas|Houston,Central,Texas,Houston
+Central|Texas|Indianapolis,Central,Texas,Indianapolis
+Central|Texas|Las Vegas,Central,Texas,Las Vegas
+Central|Texas|Los Angeles,Central,Texas,Los Angeles
+Central|Texas|Madison,Central,Texas,Madison
+Central|Texas|Miami,Central,Texas,Miami
+Central|Texas|Minneapolis,Central,Texas,Minneapolis
+Central|Texas|New York,Central,Texas,New York
+Central|Texas|Orlando,Central,Texas,Orlando
+Central|Texas|Philadelphia,Central,Texas,Philadelphia
+Central|Texas|Portland,Central,Texas,Portland
+Central|Texas|San Francisco,Central,Texas,San Francisco
+Central|Texas|Seattle,Central,Texas,Seattle
+East|Massachusetts|Atlanta,East,Massachusetts,Atlanta
+East|Massachusetts|Boston,East,Massachusetts,Boston
+East|Massachusetts|Chicago,East,Massachusetts,Chicago
+East|Massachusetts|Cleveland,East,Massachusetts,Cleveland
+East|Massachusetts|Columbus,East,Massachusetts,Columbus
+East|Massachusetts|Dallas,East,Massachusetts,Dallas
+East|Massachusetts|Denver,East,Massachusetts,Denver
+East|Massachusetts|Houston,East,Massachusetts,Houston
+East|Massachusetts|Indianapolis,East,Massachusetts,Indianapolis
+East|Massachusetts|Las Vegas,East,Massachusetts,Las Vegas
+East|Massachusetts|Los Angeles,East,Massachusetts,Los Angeles
+East|Massachusetts|Madison,East,Massachusetts,Madison
+East|Massachusetts|Miami,East,Massachusetts,Miami
+East|Massachusetts|Minneapolis,East,Massachusetts,Minneapolis
+East|Massachusetts|New York,East,Massachusetts,New York
+East|Massachusetts|Orlando,East,Massachusetts,Orlando
+East|Massachusetts|Philadelphia,East,Massachusetts,Philadelphia
+East|Massachusetts|Portland,East,Massachusetts,Portland
+East|Massachusetts|San Francisco,East,Massachusetts,San Francisco
+East|Massachusetts|Seattle,East,Massachusetts,Seattle
+East|New Jersey|Atlanta,East,New Jersey,Atlanta
+East|New Jersey|Boston,East,New Jersey,Boston
+East|New Jersey|Chicago,East,New Jersey,Chicago
+East|New Jersey|Cleveland,East,New Jersey,Cleveland
+East|New Jersey|Columbus,East,New Jersey,Columbus
+East|New Jersey|Dallas,East,New Jersey,Dallas
+East|New Jersey|Denver,East,New Jersey,Denver
+East|New Jersey|Houston,East,New Jersey,Houston
+East|New Jersey|Indianapolis,East,New Jersey,Indianapolis
+East|New Jersey|Las Vegas,East,New Jersey,Las Vegas
+East|New Jersey|Los Angeles,East,New Jersey,Los Angeles
+East|New Jersey|Madison,East,New Jersey,Madison
+East|New Jersey|Miami,East,New Jersey,Miami
+East|New Jersey|Minneapolis,East,New Jersey,Minneapolis
+East|New Jersey|New York,East,New Jersey,New York
+East|New Jersey|Orlando,East,New Jersey,Orlando
+East|New Jersey|Philadelphia,East,New Jersey,Philadelphia
+East|New Jersey|Portland,East,New Jersey,Portland
+East|New Jersey|San Francisco,East,New Jersey,San Francisco
+East|New Jersey|Seattle,East,New Jersey,Seattle
+East|New York|Atlanta,East,New York,Atlanta
+East|New York|Boston,East,New York,Boston
+East|New York|Chicago,East,New York,Chicago
+East|New York|Cleveland,East,New York,Cleveland
+East|New York|Columbus,East,New York,Columbus
+East|New York|Dallas,East,New York,Dallas
+East|New York|Denver,East,New York,Denver
+East|New York|Houston,East,New York,Houston
+East|New York|Indianapolis,East,New York,Indianapolis
+East|New York|Las Vegas,East,New York,Las Vegas
+East|New York|Los Angeles,East,New York,Los Angeles
+East|New York|Madison,East,New York,Madison
+East|New York|Miami,East,New York,Miami
+East|New York|Minneapolis,East,New York,Minneapolis
+East|New York|New York,East,New York,New York
+East|New York|Orlando,East,New York,Orlando
+East|New York|Philadelphia,East,New York,Philadelphia
+East|New York|Portland,East,New York,Portland
+East|New York|San Francisco,East,New York,San Francisco
+East|New York|Seattle,East,New York,Seattle
+East|Pennsylvania|Atlanta,East,Pennsylvania,Atlanta
+East|Pennsylvania|Boston,East,Pennsylvania,Boston
+East|Pennsylvania|Chicago,East,Pennsylvania,Chicago
+East|Pennsylvania|Cleveland,East,Pennsylvania,Cleveland
+East|Pennsylvania|Columbus,East,Pennsylvania,Columbus
+East|Pennsylvania|Dallas,East,Pennsylvania,Dallas
+East|Pennsylvania|Denver,East,Pennsylvania,Denver
+East|Pennsylvania|Houston,East,Pennsylvania,Houston
+East|Pennsylvania|Indianapolis,East,Pennsylvania,Indianapolis
+East|Pennsylvania|Las Vegas,East,Pennsylvania,Las Vegas
+East|Pennsylvania|Los Angeles,East,Pennsylvania,Los Angeles
+East|Pennsylvania|Madison,East,Pennsylvania,Madison
+East|Pennsylvania|Miami,East,Pennsylvania,Miami
+East|Pennsylvania|Minneapolis,East,Pennsylvania,Minneapolis
+East|Pennsylvania|New York,East,Pennsylvania,New York
+East|Pennsylvania|Orlando,East,Pennsylvania,Orlando
+East|Pennsylvania|Philadelphia,East,Pennsylvania,Philadelphia
+East|Pennsylvania|Portland,East,Pennsylvania,Portland
+East|Pennsylvania|San Francisco,East,Pennsylvania,San Francisco
+East|Pennsylvania|Seattle,East,Pennsylvania,Seattle
+North|Colorado|Atlanta,North,Colorado,Atlanta
+North|Colorado|Boston,North,Colorado,Boston
+North|Colorado|Chicago,North,Colorado,Chicago
+North|Colorado|Cleveland,North,Colorado,Cleveland
+North|Colorado|Columbus,North,Colorado,Columbus
+North|Colorado|Dallas,North,Colorado,Dallas
+North|Colorado|Denver,North,Colorado,Denver
+North|Colorado|Houston,North,Colorado,Houston
+North|Colorado|Indianapolis,North,Colorado,Indianapolis
+North|Colorado|Las Vegas,North,Colorado,Las Vegas
+North|Colorado|Los Angeles,North,Colorado,Los Angeles
+North|Colorado|Madison,North,Colorado,Madison
+North|Colorado|Miami,North,Colorado,Miami
+North|Colorado|Minneapolis,North,Colorado,Minneapolis
+North|Colorado|New York,North,Colorado,New York
+North|Colorado|Orlando,North,Colorado,Orlando
+North|Colorado|Philadelphia,North,Colorado,Philadelphia
+North|Colorado|Portland,North,Colorado,Portland
+North|Colorado|San Francisco,North,Colorado,San Francisco
+North|Colorado|Seattle,North,Colorado,Seattle
+North|Indiana|Atlanta,North,Indiana,Atlanta
+North|Indiana|Boston,North,Indiana,Boston
+North|Indiana|Chicago,North,Indiana,Chicago
+North|Indiana|Cleveland,North,Indiana,Cleveland
+North|Indiana|Columbus,North,Indiana,Columbus
+North|Indiana|Dallas,North,Indiana,Dallas
+North|Indiana|Denver,North,Indiana,Denver
+North|Indiana|Houston,North,Indiana,Houston
+North|Indiana|Indianapolis,North,Indiana,Indianapolis
+North|Indiana|Las Vegas,North,Indiana,Las Vegas
+North|Indiana|Los Angeles,North,Indiana,Los Angeles
+North|Indiana|Madison,North,Indiana,Madison
+North|Indiana|Miami,North,Indiana,Miami
+North|Indiana|Minneapolis,North,Indiana,Minneapolis
+North|Indiana|New York,North,Indiana,New York
+North|Indiana|Orlando,North,Indiana,Orlando
+North|Indiana|Philadelphia,North,Indiana,Philadelphia
+North|Indiana|Portland,North,Indiana,Portland
+North|Indiana|San Francisco,North,Indiana,San Francisco
+North|Indiana|Seattle,North,Indiana,Seattle
+North|Minnesota|Atlanta,North,Minnesota,Atlanta
+North|Minnesota|Boston,North,Minnesota,Boston
+North|Minnesota|Chicago,North,Minnesota,Chicago
+North|Minnesota|Cleveland,North,Minnesota,Cleveland
+North|Minnesota|Columbus,North,Minnesota,Columbus
+North|Minnesota|Dallas,North,Minnesota,Dallas
+North|Minnesota|Denver,North,Minnesota,Denver
+North|Minnesota|Houston,North,Minnesota,Houston
+North|Minnesota|Indianapolis,North,Minnesota,Indianapolis
+North|Minnesota|Las Vegas,North,Minnesota,Las Vegas
+North|Minnesota|Los Angeles,North,Minnesota,Los Angeles
+North|Minnesota|Madison,North,Minnesota,Madison
+North|Minnesota|Miami,North,Minnesota,Miami
+North|Minnesota|Minneapolis,North,Minnesota,Minneapolis
+North|Minnesota|New York,North,Minnesota,New York
+North|Minnesota|Orlando,North,Minnesota,Orlando
+North|Minnesota|Philadelphia,North,Minnesota,Philadelphia
+North|Minnesota|Portland,North,Minnesota,Portland
+North|Minnesota|San Francisco,North,Minnesota,San Francisco
+North|Minnesota|Seattle,North,Minnesota,Seattle
+North|Wisconsin|Atlanta,North,Wisconsin,Atlanta
+North|Wisconsin|Boston,North,Wisconsin,Boston
+North|Wisconsin|Chicago,North,Wisconsin,Chicago
+North|Wisconsin|Cleveland,North,Wisconsin,Cleveland
+North|Wisconsin|Columbus,North,Wisconsin,Columbus
+North|Wisconsin|Dallas,North,Wisconsin,Dallas
+North|Wisconsin|Denver,North,Wisconsin,Denver
+North|Wisconsin|Houston,North,Wisconsin,Houston
+North|Wisconsin|Indianapolis,North,Wisconsin,Indianapolis
+North|Wisconsin|Las Vegas,North,Wisconsin,Las Vegas
+North|Wisconsin|Los Angeles,North,Wisconsin,Los Angeles
+North|Wisconsin|Madison,North,Wisconsin,Madison
+North|Wisconsin|Miami,North,Wisconsin,Miami
+North|Wisconsin|Minneapolis,North,Wisconsin,Minneapolis
+North|Wisconsin|New York,North,Wisconsin,New York
+North|Wisconsin|Orlando,North,Wisconsin,Orlando
+North|Wisconsin|Philadelphia,North,Wisconsin,Philadelphia
+North|Wisconsin|Portland,North,Wisconsin,Portland
+North|Wisconsin|San Francisco,North,Wisconsin,San Francisco
+North|Wisconsin|Seattle,North,Wisconsin,Seattle
+South|Florida|Atlanta,South,Florida,Atlanta
+South|Florida|Boston,South,Florida,Boston
+South|Florida|Chicago,South,Florida,Chicago
+South|Florida|Cleveland,South,Florida,Cleveland
+South|Florida|Columbus,South,Florida,Columbus
+South|Florida|Dallas,South,Florida,Dallas
+South|Florida|Denver,South,Florida,Denver
+South|Florida|Houston,South,Florida,Houston
+South|Florida|Indianapolis,South,Florida,Indianapolis
+South|Florida|Las Vegas,South,Florida,Las Vegas
+South|Florida|Los Angeles,South,Florida,Los Angeles
+South|Florida|Madison,South,Florida,Madison
+South|Florida|Miami,South,Florida,Miami
+South|Florida|Minneapolis,South,Florida,Minneapolis
+South|Florida|New York,South,Florida,New York
+South|Florida|Orlando,South,Florida,Orlando
+South|Florida|Philadelphia,South,Florida,Philadelphia
+South|Florida|Portland,South,Florida,Portland
+South|Florida|San Francisco,South,Florida,San Francisco
+South|Florida|Seattle,South,Florida,Seattle
+South|Georgia|Atlanta,South,Georgia,Atlanta
+South|Georgia|Boston,South,Georgia,Boston
+South|Georgia|Chicago,South,Georgia,Chicago
+South|Georgia|Cleveland,South,Georgia,Cleveland
+South|Georgia|Columbus,South,Georgia,Columbus
+South|Georgia|Dallas,South,Georgia,Dallas
+South|Georgia|Denver,South,Georgia,Denver
+South|Georgia|Houston,South,Georgia,Houston
+South|Georgia|Indianapolis,South,Georgia,Indianapolis
+South|Georgia|Las Vegas,South,Georgia,Las Vegas
+South|Georgia|Los Angeles,South,Georgia,Los Angeles
+South|Georgia|Madison,South,Georgia,Madison
+South|Georgia|Miami,South,Georgia,Miami
+South|Georgia|Minneapolis,South,Georgia,Minneapolis
+South|Georgia|New York,South,Georgia,New York
+South|Georgia|Orlando,South,Georgia,Orlando
+South|Georgia|Philadelphia,South,Georgia,Philadelphia
+South|Georgia|Portland,South,Georgia,Portland
+South|Georgia|San Francisco,South,Georgia,San Francisco
+South|Georgia|Seattle,South,Georgia,Seattle
+South|North Carolina|Atlanta,South,North Carolina,Atlanta
+South|North Carolina|Boston,South,North Carolina,Boston
+South|North Carolina|Chicago,South,North Carolina,Chicago
+South|North Carolina|Cleveland,South,North Carolina,Cleveland
+South|North Carolina|Columbus,South,North Carolina,Columbus
+South|North Carolina|Dallas,South,North Carolina,Dallas
+South|North Carolina|Denver,South,North Carolina,Denver
+South|North Carolina|Houston,South,North Carolina,Houston
+South|North Carolina|Indianapolis,South,North Carolina,Indianapolis
+South|North Carolina|Las Vegas,South,North Carolina,Las Vegas
+South|North Carolina|Los Angeles,South,North Carolina,Los Angeles
+South|North Carolina|Madison,South,North Carolina,Madison
+South|North Carolina|Miami,South,North Carolina,Miami
+South|North Carolina|Minneapolis,South,North Carolina,Minneapolis
+South|North Carolina|New York,South,North Carolina,New York
+South|North Carolina|Orlando,South,North Carolina,Orlando
+South|North Carolina|Philadelphia,South,North Carolina,Philadelphia
+South|North Carolina|Portland,South,North Carolina,Portland
+South|North Carolina|San Francisco,South,North Carolina,San Francisco
+South|North Carolina|Seattle,South,North Carolina,Seattle
+South|Virginia|Atlanta,South,Virginia,Atlanta
+South|Virginia|Boston,South,Virginia,Boston
+South|Virginia|Chicago,South,Virginia,Chicago
+South|Virginia|Cleveland,South,Virginia,Cleveland
+South|Virginia|Columbus,South,Virginia,Columbus
+South|Virginia|Dallas,South,Virginia,Dallas
+South|Virginia|Denver,South,Virginia,Denver
+South|Virginia|Houston,South,Virginia,Houston
+South|Virginia|Indianapolis,South,Virginia,Indianapolis
+South|Virginia|Las Vegas,South,Virginia,Las Vegas
+South|Virginia|Los Angeles,South,Virginia,Los Angeles
+South|Virginia|Madison,South,Virginia,Madison
+South|Virginia|Miami,South,Virginia,Miami
+South|Virginia|Minneapolis,South,Virginia,Minneapolis
+South|Virginia|New York,South,Virginia,New York
+South|Virginia|Orlando,South,Virginia,Orlando
+South|Virginia|Philadelphia,South,Virginia,Philadelphia
+South|Virginia|Portland,South,Virginia,Portland
+South|Virginia|San Francisco,South,Virginia,San Francisco
+South|Virginia|Seattle,South,Virginia,Seattle
+West|California|Atlanta,West,California,Atlanta
+West|California|Boston,West,California,Boston
+West|California|Chicago,West,California,Chicago
+West|California|Cleveland,West,California,Cleveland
+West|California|Columbus,West,California,Columbus
+West|California|Dallas,West,California,Dallas
+West|California|Denver,West,California,Denver
+West|California|Houston,West,California,Houston
+West|California|Indianapolis,West,California,Indianapolis
+West|California|Las Vegas,West,California,Las Vegas
+West|California|Los Angeles,West,California,Los Angeles
+West|California|Madison,West,California,Madison
+West|California|Miami,West,California,Miami
+West|California|Minneapolis,West,California,Minneapolis
+West|California|New York,West,California,New York
+West|California|Orlando,West,California,Orlando
+West|California|Philadelphia,West,California,Philadelphia
+West|California|Portland,West,California,Portland
+West|California|San Francisco,West,California,San Francisco
+West|California|Seattle,West,California,Seattle
+West|Nevada|Atlanta,West,Nevada,Atlanta
+West|Nevada|Boston,West,Nevada,Boston
+West|Nevada|Chicago,West,Nevada,Chicago
+West|Nevada|Cleveland,West,Nevada,Cleveland
+West|Nevada|Columbus,West,Nevada,Columbus
+West|Nevada|Dallas,West,Nevada,Dallas
+West|Nevada|Denver,West,Nevada,Denver
+West|Nevada|Houston,West,Nevada,Houston
+West|Nevada|Indianapolis,West,Nevada,Indianapolis
+West|Nevada|Las Vegas,West,Nevada,Las Vegas
+West|Nevada|Los Angeles,West,Nevada,Los Angeles
+West|Nevada|Madison,West,Nevada,Madison
+West|Nevada|Miami,West,Nevada,Miami
+West|Nevada|Minneapolis,West,Nevada,Minneapolis
+West|Nevada|New York,West,Nevada,New York
+West|Nevada|Orlando,West,Nevada,Orlando
+West|Nevada|Philadelphia,West,Nevada,Philadelphia
+West|Nevada|Portland,West,Nevada,Portland
+West|Nevada|San Francisco,West,Nevada,San Francisco
+West|Nevada|Seattle,West,Nevada,Seattle
+West|Oregon|Atlanta,West,Oregon,Atlanta
+West|Oregon|Boston,West,Oregon,Boston
+West|Oregon|Chicago,West,Oregon,Chicago
+West|Oregon|Cleveland,West,Oregon,Cleveland
+West|Oregon|Columbus,West,Oregon,Columbus
+West|Oregon|Dallas,West,Oregon,Dallas
+West|Oregon|Denver,West,Oregon,Denver
+West|Oregon|Houston,West,Oregon,Houston
+West|Oregon|Indianapolis,West,Oregon,Indianapolis
+West|Oregon|Las Vegas,West,Oregon,Las Vegas
+West|Oregon|Los Angeles,West,Oregon,Los Angeles
+West|Oregon|Madison,West,Oregon,Madison
+West|Oregon|Miami,West,Oregon,Miami
+West|Oregon|Minneapolis,West,Oregon,Minneapolis
+West|Oregon|New York,West,Oregon,New York
+West|Oregon|Orlando,West,Oregon,Orlando
+West|Oregon|Philadelphia,West,Oregon,Philadelphia
+West|Oregon|Portland,West,Oregon,Portland
+West|Oregon|San Francisco,West,Oregon,San Francisco
+West|Oregon|Seattle,West,Oregon,Seattle
+West|Washington|Atlanta,West,Washington,Atlanta
+West|Washington|Boston,West,Washington,Boston
+West|Washington|Chicago,West,Washington,Chicago
+West|Washington|Cleveland,West,Washington,Cleveland
+West|Washington|Columbus,West,Washington,Columbus
+West|Washington|Dallas,West,Washington,Dallas
+West|Washington|Denver,West,Washington,Denver
+West|Washington|Houston,West,Washington,Houston
+West|Washington|Indianapolis,West,Washington,Indianapolis
+West|Washington|Las Vegas,West,Washington,Las Vegas
+West|Washington|Los Angeles,West,Washington,Los Angeles
+West|Washington|Madison,West,Washington,Madison
+West|Washington|Miami,West,Washington,Miami
+West|Washington|Minneapolis,West,Washington,Minneapolis
+West|Washington|New York,West,Washington,New York
+West|Washington|Orlando,West,Washington,Orlando
+West|Washington|Philadelphia,West,Washington,Philadelphia
+West|Washington|Portland,West,Washington,Portland
+West|Washington|San Francisco,West,Washington,San Francisco
+West|Washington|Seattle,West,Washington,Seattle
